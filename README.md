@@ -1,3 +1,5 @@
+(WiP)
+
 # Conditional Copula VaR Model
 
 A sophisticated Value at Risk (VaR) implementation using conditional copula methods for modeling time-varying dependence structures between financial assets, with particular focus on extreme market conditions and tail risk.
